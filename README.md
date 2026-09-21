@@ -1,3 +1,4 @@
 hello git.
 modified.
-modified from github.
+modified from github fetch and merge.
+modified from github pull.
